@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\WorkSpace\Subjects\FINISHED\Nam2_2021-2022\Hk3_2021-2022\Phan_tich_thiet_ke_HDT\Tieu_Luan\DoAnCoSoNganh_Nhom15_DT16\DoAnCoSoNganh_Nhom15_DT16\DoAn\DoAn\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="frmChangePasscs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLyCTHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLyCTTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLyHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLyKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLyNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLySanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLyThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLyThucDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SoDoQuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
